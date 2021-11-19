@@ -1,4 +1,4 @@
-name: Laravel
+name: Default from github for Laravel
 
 on:
   push:
